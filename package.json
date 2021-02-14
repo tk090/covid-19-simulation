@@ -1,0 +1,31 @@
+{
+  "name": "covid-simulation",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@mdi/font": "^5.8.55",
+    "apexcharts": "^3.22.0",
+    "autoprefixer": "^9",
+    "p5": "^1.1.9",
+    "postcss": "^7",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat",
+    "vue": "^3.0.0",
+    "vue-apexcharts": "^1.6.0",
+    "vue-router": "^4.0.0-0",
+    "vue-slider-component": "^4.0.0-beta.2"
+  },
+  "devDependencies": {
+    "@types/p5": "^0.9.1",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-typescript": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/compiler-sfc": "^3.0.0",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^8.0.2",
+    "typescript": "~3.9.3"
+  }
+}
